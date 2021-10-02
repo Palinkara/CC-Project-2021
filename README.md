@@ -12,4 +12,4 @@ To do this an application will be created in which the members are able to note 
 Based on that events can be organised which will leave all parties involved satisfied.
 
 ## Milestones & Documentation of them
-- Hito#0 - Milestone#0 [Link to Hito#0 - Milestone#0](Hito%230/Hito0.md)
+- [Hito#0 - Milestone#0](Hito%230/Hito0.md)
