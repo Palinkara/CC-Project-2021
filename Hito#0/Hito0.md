@@ -24,3 +24,6 @@ The student's name and surname, email addresses, city, university and individual
 ![Profile](Profile.png)
 
 ### The use of a two-factor authentication
+
+The student employed two-factor authentication as described in the exercise sheet.
+![Two-factor authentication](TwoFactorAuth.jpg)
