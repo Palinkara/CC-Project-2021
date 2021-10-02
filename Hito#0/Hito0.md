@@ -10,6 +10,7 @@ This includes:
 - the use of an individualised profile picture
 - the addition of name, surname, visible email addresses, city and university to the account
 - the use of a two-factor authentication
+- the installation of gh
 
 In the following these will be shown, described and possible questions will be answered.
 
@@ -27,3 +28,7 @@ The student's name and surname, email addresses, city, university and individual
 
 The student employed two-factor authentication as described in the exercise sheet.
 ![Two-factor authentication](TwoFactorAuth.jpg)
+
+## The installation of gh
+
+gh has been installed to enable to use of Github commanded through the Commandline.
