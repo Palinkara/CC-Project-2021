@@ -15,12 +15,12 @@ In the following these will be shown, described and possible questions will be a
 
 ### The creation of an SSH key pair
 
+An SSH key pair was created and added to the account.
 ![SSH key pair](KeyPair.jpg)
 
-### The addition of the student's name and email addresses
+### The addition of name, surname, (visible) email adresses, city and university and the use of an individualised profile picture
 
-### The use of an individualised profile picture
-
-### The addition of name, surname, visible email adresses, city and university
+The student's name and surname, email addresses, city, university and individualised profile picture were added to the account.
+![Profile](Profile.jpg)
 
 ### The use of a two-factor authentication
