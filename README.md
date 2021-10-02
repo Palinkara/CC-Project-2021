@@ -10,3 +10,6 @@ The goal of this specific project is to create an application for organisations 
 To do this an application will be created in which the members are able to note down their private events and parties. By doing this the organisation is later able to evaluate the noted events by using a Wordvector-trained system and therefore to see which eventtypes (types! "Movies/Series" is a type - "Captain America" is not. Same for "Music" and "Panic! At the disco-concert".) are popular with their members.
 
 Based on that events can be organised which will leave all parties involved satisfied.
+
+## Milestones & Documentation of them
+- Hito#0 - Milestone#0 [Link to Hito#0 - Milestone#0](Hito%230/Hito0.md)
