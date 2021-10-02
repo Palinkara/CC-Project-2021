@@ -15,6 +15,8 @@ In the following these will be shown, described and possible questions will be a
 
 ### The creation of an SSH key pair
 
+![SSH key pair](./KeyPair.jp)
+
 ### The addition of the student's name and email addresses
 
 ### The use of an individualised profile picture
