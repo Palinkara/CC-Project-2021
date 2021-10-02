@@ -21,6 +21,6 @@ An SSH key pair was created and added to the account.
 ### The addition of name, surname, (visible) email adresses, city and university and the use of an individualised profile picture
 
 The student's name and surname, email addresses, city, university and individualised profile picture were added to the account.
-![Profile](Profile.jpg)
+![Profile](Profile.png)
 
 ### The use of a two-factor authentication
