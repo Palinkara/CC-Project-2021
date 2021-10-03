@@ -17,17 +17,17 @@ In the following these will be shown, described and possible questions will be a
 ### The creation of an SSH key pair
 
 An SSH key pair was created and added to the account.
-![SSH key pair](KeyPair.jpg)
+![SSH key pair](images/KeyPair.jpg)
 
 ### The addition of name, surname, (visible) email adresses, city and university and the use of an individualised profile picture
 
 The student's name and surname, email addresses, city, university and individualised profile picture were added to the account.
-![Profile](Profile.png)
+![Profile](images/Profile.png)
 
 ### The use of a two-factor authentication
 
 The student employed two-factor authentication as described in the exercise sheet.
-![Two-factor authentication](TwoFactorAuth.jpg)
+![Two-factor authentication](images/TwoFactorAuth.jpg)
 
 ## The installation of gh
 
