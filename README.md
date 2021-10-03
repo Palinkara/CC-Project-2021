@@ -1,5 +1,4 @@
-# CC-Project-2021
-This is a project for the module "Cloud Computing".
+# Planify
 
 ## What is the goal of this project?
 In the module "Cloud Computing" students are supposed to learn how to cloud compute by working on their own project.
