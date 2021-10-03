@@ -17,7 +17,7 @@ In the following these will be shown, described and possible questions will be a
 ### The creation of an SSH key pair
 
 An SSH key pair was created and added to the account.
-![SSH key pair](,./images/KeyPair.jpg)
+![SSH key pair](../images/KeyPair.jpg)
 
 ### The addition of name, surname, (visible) email adresses, city and university and the use of an individualised profile picture
 
