@@ -25,7 +25,7 @@ Just to name a few of them.
 And sadly, even *if* everything is perfectly planned and everybody has time and the food is right, it doesn't mean there will be lots of people present.
 Maybe out of fifty people invited, five will arrive.
 
-If you later ask for the reason, the answer, most of the time is rather similar: "I didn't have enough time" or "I'm sorry but (insert activity) was never something I enjoyed.
+If you later ask for the reason, the answer, most of the time is rather similar: "I didn't have enough time" or "I'm sorry but (insert activity) was never something I enjoyed".
 
 To be able to go against this rather annoying situation, I want to present you **Planify** - an app hosted in the cloud which could do exactly what you need it to.
 With its help, you're perfectly able to see which weeks are rather busy, when which person is available and - which events people are generally interested in.
