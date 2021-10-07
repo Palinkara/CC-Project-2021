@@ -40,7 +40,7 @@ What does happen now?
 Two things:
 
 1. Other members in the organisation are able to see her notice and contact her to take part in her get-together, which will leave both - the organisation members **and** Mrs Christie satisified and
-2. the planning committee is able to use the information introduced to add it to their database, based on which the application allows to evaluate trends in (private) event planning introduced into the organisation.
+2. the planning committee is able to use the information introduced to add it to their database, based on which the WordVector-based application allows to evaluate trends in (private) event planning introduced into the organisation.
 
 Of course all of this will happen with permission of the users themselves - the organisation should never employ this technique without getting the permission of all parties involved.
 
@@ -52,6 +52,15 @@ Make your members happy - plan successfull events.
 Only with Planify.
 
 Thank you for your attention.
+
+## Elements of this projects
+
+There are several elements the application will be based. To name the most the important ones:
+
+- **Users:** People using the application to organise their daily life and events
+- **(Planning) organisation:** The party who needs the analysed data given by the users to plan successful events
+- **Calendar:** The element containing all dates and events noted by the users
+- **Analyser:** The WordVector-based tool used to evaluate the events given by the users
 
 ## Milestones & Documentation of them
 - [Hito#0 - Milestone#0](Hito%230/Hito0.md)
