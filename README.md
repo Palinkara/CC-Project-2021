@@ -55,7 +55,7 @@ Thank you for your attention.
 
 ## Elements of this projects
 
-There are several elements the application will be based. To name the most the important ones:
+There are several elements the application will be based on. To name the most the important ones:
 
 - **Users:** People using the application to organise their daily life and events
 - **(Planning) organisation:** The party who needs the analysed data given by the users to plan successful events
