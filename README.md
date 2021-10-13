@@ -5,6 +5,7 @@ In the module "Cloud Computing" students are supposed to learn how to cloud comp
 - provide business logic,
 - be hosted in a cloud,
 - and process data in a meaningful way (search options are not enough!).
+
 The name of the project is Planify and its purpose is explained in the following description (both - in a nutshell and in more detail).
 
 ## Project Description in a nutshell...
