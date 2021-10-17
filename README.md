@@ -99,6 +99,7 @@ Apart from that, the milestones for the student to follow were designed and also
 The latter can be found in combination with the associated issue at: 
 [[I 1] - Create (and comment) the classes expected to be needed](https://github.com/Palinkara/Planify/issues/5)
 
+
 The User Story started at this point is:
 [[US 1] As an Event planner, I need to be able to see how many events of a specific type are planned, to organize events my organization's members would be interested in.](https://github.com/Palinkara/Planify/issues/1)
 
@@ -112,10 +113,15 @@ After this milestone the Event planner should be able to evaluate how many event
 
 Issues associated with this milestone are:
 [[I 1] - Create (and comment) the classes expected to be needed](https://github.com/Palinkara/Planify/issues/5)
+
 [[I 2] Create a mock-up to understand the specific process an Event planner will go through](https://github.com/Palinkara/Planify/issues/6)
+
 [[I 3] Create a list of event types and the associated (specific) events (future training)](https://github.com/Palinkara/Planify/issues/7)
+
 [[I 4] Build a Neural Network for future training purposes](https://github.com/Palinkara/Planify/issues/8)
+
 [[I 5] Design an easy to read representation for the Event planner](https://github.com/Palinkara/Planify/issues/9)
+
 
 The User Story associated with this milestone is:
 [[US 1] As an Event planner, I need to be able to see how many events of a specific type are planned, to organize events my organization's members would be interested in.](https://github.com/Palinkara/Planify/issues/1)
@@ -128,7 +134,9 @@ In this case, the application is extended by further functionalities, like the d
 
 Issues solved in this milestone are:
 [[I 6] Add the additional data to the previous model](https://github.com/Palinkara/Planify/issues/10)
+
 [[I 7] Implement an easy to read representation based an [I 5]](https://github.com/Palinkara/Planify/issues/11)
+
 
 The User Story associated with this milestone is:
 [[US 2] As an Event planner, I need to get a list of all the events and the types they were listed as, to have examples for each event type and to know the specific events already organized from each event type.](https://github.com/Palinkara/Planify/issues/2)
@@ -142,8 +150,11 @@ Those primarily consist of giving the User the possibility to add events.
 
 Issues resolved at this stage are:
 [[I 8] Create a mock-up to understand the specific process a User will go through](https://github.com/Palinkara/Planify/issues/12)
+
 [[I 9] Create a standard format a user is allowed to add data](https://github.com/Palinkara/Planify/issues/13)
+
 [[I 10] Research possible methods to represent events added by the user](https://github.com/Palinkara/Planify/issues/14)
+
 
 The User Story associated with this milestone is:
 [[US 3] As an organisation's member (see The User), I need to be able to add my own events to make them visible to other members (Users). ](https://github.com/Palinkara/Planify/issues/3)
@@ -154,6 +165,7 @@ After having implemented the one side of the application enabling the User to po
 
 Issues associated with this milestone are:
 [[I 11] Create a mock-up to combine the different views of User and Event planner (if possible!)](https://github.com/Palinkara/Planify/issues/15)
+
 
 The User Story associated with this milestone is:
 [[US 4] As an organisation's member (see The User)/Event planner (both apply!), I need to see when other events are planned (and possibly who attends them). ](https://github.com/Palinkara/Planify/issues/4)
