@@ -22,7 +22,7 @@ All user stories designed by the student are following this format.
 
 In addition to naming them, the student will also provide a short description about where the task comes from, which scope the student expects for it to have and why it is important enough to be mentioned with the priority it is (priority matches the number of the story).
 
-**US 1: As an Event planner, I need to be able to see how many events of a specific type are planned, to organize events my organization's members would be interested in.**
+### US 1: As an Event planner, I need to be able to see how many events of a specific type are planned, to organize events my organization's members would be interested in.
 
 This task describes the core function of the application, the function making this application of worth for the organization to use in the future. In this case the user consists of the **Event planner** (see Paso 1). 
 
@@ -32,7 +32,7 @@ If the Event planner isn't able to see which event types are the most popular wi
 
 It's also the user story with the biggest scope - depending on how the evaluation process can be implemented, it requires invested work concerning WordVectors or Neural Networks by the student.
 
-**US 2: As an Event planner, I need to get a list of all the events and the types they were listed as, to have examples for each event type and to know the specific events already organized from each event type.**
+### US 2: As an Event planner, I need to get a list of all the events and the types they were listed as, to have examples for each event type and to know the specific events already organized from each event type. 
 
 This task is a continuation of the core function and it's concerning the **Event planner** who now not only needs the numbers of the specific event types planned through which they know about the event type's popularity, but also which events were considered as which event type.
 While for example "Watching a movie" as an example for the event type "Film/Series" won't help the Event planner, an event like "Golf" being mentioned ten out of fifteen times in the category "Sports" might be a good indicator for the popularity of this specific sport.
@@ -45,7 +45,7 @@ Although this is just an extension of US 1, it is still categorized as priority 
 
 Based on this more "normal" functions can be added for The User.
 
-**US 3: As an organisation's member (see The User), I need to be able to add my own events to make them visible to other members (Users).**
+### US 3: As an organisation's member (see The User), I need to be able to add my own events to make them visible to other members (Users).
 
 At this point the user stories switch to the perspective of The User.
 
@@ -58,7 +58,7 @@ These functionality requires a specific design and an analysis in function, for 
 
 The scope should be estimated in more detail once the other tasks derived from the first two user stories are fulfilled.
 
-**US 4: As an organisation's member (see The User)/Event planner (both apply!), I need to see when other events are planned (and possibly who attends them).**
+### US 4: As an organisation's member (see The User)/Event planner (both apply!), I need to see when other events are planned (and possibly who attends them).
 
 This is a function interesting for both - The User and The Event planner. For the user this function is useful because based on that they can choose when and which events to attend. 
 
