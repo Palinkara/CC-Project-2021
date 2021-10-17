@@ -70,3 +70,29 @@ The order of these two user stories being mentioned doesn't influence their prio
 Does it make more sense to give the user the chance to add events or to see them without giving them any chances to add?
 
 Certainly both are important functions with a prioritarization of 3 to 4.
+
+## Paso 3 - Step 3
+
+After having designed and established the user stories, it's now time to break down the user stories into issues to make them achievable by the developers (student, in this case).
+
+The student decided on the following issues (the issues are written right below the user story(s) they belong to):
+
+### US 1: As an Event planner, I need to be able to see how many events of a specific type are planned, to organize events my organization's members would be interested in.
+- I1: Create (and comment) the classes expected to be needed 
+- I2: Create a mock-up to understand the specific process an Event planner will go through
+- I3: Create a list of event types and the associated (specific) events (future training)
+- I4: Build a Neural Network for future training purposes
+- I5: Design an easy to read representation for the Event planner
+
+### US 2: As an Event planner, I need to get a list of all the events and the types they were listed as, to have examples for each event type and to know the specific events already organized from each event type. 
+- I6: Add the additional data to the previous model
+- I7: Implement an easy to read representation based an I5
+
+### US 3: As an organisation's member (see The User), I need to be able to add my own events to make them visible to other members (Users).
+- I8: Create a mock-up to understand the specific process a User will go through
+- I9: Create a standard format a user is allowed to add data
+- I10: Research possible methods to represent events added by the user
+
+### US 4: As an organisation's member (see The User)/Event planner (both apply!), I need to see when other events are planned (and possibly who attends them).
+- I11: Create a mock-up to combine the different views of User and Event planner (if possible!)
+
