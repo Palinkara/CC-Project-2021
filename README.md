@@ -64,10 +64,100 @@ Thank you for your attention.
 
 There are several elements the application will be based on. To name the most the important ones:
 
-- **Users:** People using the application to organise their daily life and events
-- **(Planning) organisation:** The party who needs the analysed data given by the users to plan successful events
+- **The User:** People using the application to organise their daily life and events
+- **The Event Planner:** The party who needs the analysed data given by the users to plan successful events
 - **Calendar:** The element containing all dates and events noted by the users
-- **Analyser:** The WordVector-based tool used to evaluate the events given by the users
+- **Analyser:** The WordVector-based or Neural Network-based tool used to evaluate the events given by the users
 
-## Milestones & Documentation of them
-- [Hito#0 - Milestone#0](Hito%230/Hito0.md)
+The architecture of this project will be **event-based architecture** as a continuous updating/processing is not needed and only happends after certain events (e.g. "Event is added by User" or "Event Planner started evaluating process").
+The events are yet to be defined.
+
+## Milestones and their Documentation
+
+As the user stories and milestones were planned and designed in complete unison, most of them coincide with each other.
+Nonetheless, the associated user story is always mentioned with the specific milestone.
+
+The project concerning the milestones is structured as following:
+
+### Hito#0 - Milestone#0
+
+[Hito#0 - Milestone#0](Hito%230/Hito0.md)
+The student's Github account is prepared to starting a project.
+Additionally, the student now knows all the basic functionalities of Github and can use them according to formal conventions provided.
+A general project idea (including business logic and the potential to be deployed in the cloud) is presented and described.
+
+### Hito#1 - Miletone#1
+
+[Hito#1 - Milestone#1](Hito%231/Hito1.md)
+
+After having everything prepared and the project concept validated, the student is now able to design User Stories and based on that, Issues to tackle to implement the application.
+
+As the point User Stories was mentioned before the milestone design, there is no corresponding Issue I with it, but the detailled description can be found following the link.
+
+Apart from that, the milestones for the student to follow were designed and also the first classes/files needed declared and commented (not yet implemented!).
+
+The latter can be found in combination with the associated issue at: 
+[[I 1] - Create (and comment) the classes expected to be needed](https://github.com/Palinkara/Planify/issues/5)
+
+The User Story started at this point is:
+[[US 1] As an Event planner, I need to be able to see how many events of a specific type are planned, to organize events my organization's members would be interested in.](https://github.com/Palinkara/Planify/issues/1)
+
+### Hito#2 - Milestone#2
+
+After having the project structured in User Stories, corresponding tasks and milestones, the second milestone is employed to create a MVP or in this case - to implement the core functions of the application. 
+
+Those consist in the design of a general process when employed by an Event planner, the creation of the classification-algorithm (probably Neural Network based), its training and its testing and the design of general easy-to-read data representation.
+
+After this milestone the Event planner should be able to evaluate how many events of a certain type are planned and ideally name the number to the planner.
+
+Issues associated with this milestone are:
+[[I 1] - Create (and comment) the classes expected to be needed](https://github.com/Palinkara/Planify/issues/5)
+[[I 2] Create a mock-up to understand the specific process an Event planner will go through](https://github.com/Palinkara/Planify/issues/6)
+[[I 3] Create a list of event types and the associated (specific) events (future training)](https://github.com/Palinkara/Planify/issues/7)
+[[I 4] Build a Neural Network for future training purposes](https://github.com/Palinkara/Planify/issues/8)
+[[I 5] Design an easy to read representation for the Event planner](https://github.com/Palinkara/Planify/issues/9)
+
+The User Story associated with this milestone is:
+[[US 1] As an Event planner, I need to be able to see how many events of a specific type are planned, to organize events my organization's members would be interested in.](https://github.com/Palinkara/Planify/issues/1)
+
+### Hito#3 - Milestone#3
+
+Similar to the second milestone, my third milestone will focus on the extension of the core functionality. This has to be done, as the core functionality - the analysis of different events, the sort into different event types and the later display of how many events of a certain event type were planned - constitutes the unique selling point (USP) of this application.
+
+In this case, the application is extended by further functionalities, like the display of which events were sorted under which event type.
+
+Issues solved in this milestone are:
+[[I 6] Add the additional data to the previous model](https://github.com/Palinkara/Planify/issues/10)
+[[I 7] Implement an easy to read representation based an [I 5]](https://github.com/Palinkara/Planify/issues/11)
+
+The User Story associated with this milestone is:
+[[US 2] As an Event planner, I need to get a list of all the events and the types they were listed as, to have examples for each event type and to know the specific events already organized from each event type.](https://github.com/Palinkara/Planify/issues/2)
+
+### Hito#4 - Milestone#4
+
+After having implemented the core functionalities constituing the USP, the application will be looked at from an User's (see "The User", not to confuse with "The Event planner") point of view and extended by functions that might seem "normal" (like for example "adding events"), but nonetheless are an important part of the final application.
+
+Those primarily consist of giving the User the possibility to add events. 
+(Why this is chosen before the "giving the User the chance to see events"-functionality, is explained in the document concerning the User Stories (see Hito#1 - Milestone#1)).
+
+Issues resolved at this stage are:
+[[I 8] Create a mock-up to understand the specific process a User will go through](https://github.com/Palinkara/Planify/issues/12)
+[[I 9] Create a standard format a user is allowed to add data](https://github.com/Palinkara/Planify/issues/13)
+[[I 10] Research possible methods to represent events added by the user](https://github.com/Palinkara/Planify/issues/14)
+
+The User Story associated with this milestone is:
+[[US 3] As an organisation's member (see The User), I need to be able to add my own events to make them visible to other members (Users). ](https://github.com/Palinkara/Planify/issues/3)
+
+### Hito#5 - Milestone#5
+
+After having implemented the one side of the application enabling the User to post events, it now is important to make the other side possible: The enable all users (The User and The Event planner) to see the events already added.
+
+Issues associated with this milestone are:
+[[I 11] Create a mock-up to combine the different views of User and Event planner (if possible!)](https://github.com/Palinkara/Planify/issues/15)
+
+The User Story associated with this milestone is:
+[[US 4] As an organisation's member (see The User)/Event planner (both apply!), I need to see when other events are planned (and possibly who attends them). ](https://github.com/Palinkara/Planify/issues/4)
+
+### Hito#6 - Milestone#6
+
+Cloud deployment. If everything works out, the application should now be ready to be deployed in the cloud.
