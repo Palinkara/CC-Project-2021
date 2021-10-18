@@ -1,11 +1,11 @@
 {"event_types":  [
-    {"category": "Author: Palinkara",
-     "events": ["This code is by me for me."]
+    {"category": "event_type 0",
+     "events": ["Event 0"]
     },
-    {"category": "Eventtype 1",
+    {"category": "event_type 1",
      "events": ["Event 1", "Event 2", "Event 3"]
     },
-    {"category": "Eventtype 2",
+    {"category": "event_type 2",
      "events": ["Event 4", "Event 5", "Event 6"]
     },
     {"category": "NN",

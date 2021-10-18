@@ -1,8 +1,8 @@
 entities:
- - src/neuralNetwork.py
+ - src/neural_network.py
  - src/classifyer.py
- - src/eventPlanner.py
+ - src/event_planner.py
  - src/user.py
 
  others:
- - src/eventtypes.json
+ - src/event_types.json
