@@ -98,9 +98,9 @@ Apart from that, the milestones for the student to follow were designed and also
 
 The latter can be found in combination with the associated issue at: 
 
-[[I 0] - Finish documentation including US, Issues & Milestones](https://github.com/Palinkara/Planify/issues/16) - Closed
+[[I 0] - Base approach on the user's needs](https://github.com/Palinkara/Planify/issues/16) - Closed
 
-[[I 1] - Create (and comment) the classes expected to be needed](https://github.com/Palinkara/Planify/issues/5) - Closed
+[[I 1] - Design the classes possibly needed for the application](https://github.com/Palinkara/Planify/issues/5) - Closed
 
 
 The User Story started at this point is:
@@ -119,13 +119,13 @@ After this milestone the Event planner should be able to evaluate how many event
 
 Issues associated with this milestone are:
 
-[[I 1] - Create (and comment) the classes expected to be needed](https://github.com/Palinkara/Planify/issues/5)
+[[I 1] - Design the classes possibly needed for the application](https://github.com/Palinkara/Planify/issues/5)
 
-[[I 2] Create a mock-up to understand the specific process an Event planner will go through](https://github.com/Palinkara/Planify/issues/6)
+[[I 2] Understand the process an Event Planner goes through](https://github.com/Palinkara/Planify/issues/6)
 
-[[I 3] Create a list of event types and the associated (specific) events (future training)](https://github.com/Palinkara/Planify/issues/7)
+[[I 3] Get data about different event types](https://github.com/Palinkara/Planify/issues/7)
 
-[[I 4] Build a Neural Network for future training purposes](https://github.com/Palinkara/Planify/issues/8)
+[[I 4] Decide which type of classification might be best](https://github.com/Palinkara/Planify/issues/8)
 
 [[I 5] Design an easy to read representation for the Event planner](https://github.com/Palinkara/Planify/issues/9)
 
@@ -144,9 +144,9 @@ In this case, the application is extended by further functionalities, like the d
 
 Issues solved in this milestone are:
 
-[[I 6] Add the additional data to the previous model](https://github.com/Palinkara/Planify/issues/10)
+[[I 6] Find a way to add additional data in a readable way](https://github.com/Palinkara/Planify/issues/10)
 
-[[I 7] Implement an easy to read representation based an [I 5]](https://github.com/Palinkara/Planify/issues/11)
+[[I 7] Create representation designed in [I 5]](https://github.com/Palinkara/Planify/issues/11)
 
 
 The User Story associated with this milestone is:
@@ -164,11 +164,11 @@ Those primarily consist of giving the User the possibility to add events.
 
 Issues resolved at this stage are:
 
-[[I 8] Create a mock-up to understand the specific process a User will go through](https://github.com/Palinkara/Planify/issues/12)
+[[I 8] Understand the process an User goes through to create an event](https://github.com/Palinkara/Planify/issues/12)
 
 [[I 9] Create a standard format a user is allowed to add data](https://github.com/Palinkara/Planify/issues/13)
 
-[[I 10] Research possible methods to represent events added by the user](https://github.com/Palinkara/Planify/issues/14)
+[[I 10] Possible methods to represent events added by the user](https://github.com/Palinkara/Planify/issues/14)
 
 
 The User Story associated with this milestone is:
@@ -183,7 +183,7 @@ After having implemented the one side of the application enabling the User to po
 
 Issues associated with this milestone are:
 
-[[I 11] Create a mock-up to combine the different views of User and Event planner (if possible!)](https://github.com/Palinkara/Planify/issues/15)
+[[I 11] Understand how an Event Planner and an User View can be combined (if possible!)](https://github.com/Palinkara/Planify/issues/15)
 
 
 The User Story associated with this milestone is:
