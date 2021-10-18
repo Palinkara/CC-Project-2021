@@ -2,16 +2,16 @@
 
 class user:
 
-    def seePlannedEvent():
+    def see_planned_event():
 
         pass
 
-    def planEvent(eventName, date, time, place):
+    def plan_event(event_name, date, time, place):
 
         pass
 
     # Out of Scope
 
-    def takePartInEvent():
+    def take_part_in_event():
 
         pass

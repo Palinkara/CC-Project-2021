@@ -1,21 +1,21 @@
 # This class will be used to give the EventPlanner the chance to feed data to the Classifyer and 
 # to get the evaluated events and event types described in the project description.
 
-class eventPlanner:
+class event_planner:
 
     # classesList = Put List the Event Planner has in an array(?); through e.g. ReadFunctionality
-    classesList = []
+    classes_list = []
 
-    def startEvaluation(classesList):
+    def start_evaluation(classes_list):
 
         pass
 
-    def seePlannedEvents():
+    def see_planned_events():
 
         pass
 
     # Out of Scope
 
-    def planEvent():
+    def plan_event():
 
         pass

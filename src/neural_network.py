@@ -5,9 +5,9 @@ import json
 import tensorflow
 import tensorflow.keras
 
-eventtypes = json.loads(open('eventtypes.json').read())
+eventtypes = json.loads(open('event_types.json').read())
 
-class neuralNetwork:
+class neural_network:
 
-    def train(eventtypes):
+    def train(event_types):
         pass

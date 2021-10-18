@@ -7,10 +7,10 @@
 
 # import neuralNetwork.py 
 
-class eventEvaluation:
+class event_evaluation:
 
 #    classesList = Put List the Event Planner has in an array(?)
-    classesList = []
+    classes_list = []
 
-    def eventAnalysis(classesList):
+    def event_analysis(classes_list):
         pass
