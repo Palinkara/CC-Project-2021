@@ -98,9 +98,9 @@ Apart from that, the milestones for the student to follow were designed and also
 
 The latter can be found in combination with the associated issue at: 
 
-[[I 0] - Finish documentation including US, Issues & Milestones](https://github.com/Palinkara/Planify/issues/16)
+[[I 0] - Finish documentation including US, Issues & Milestones](https://github.com/Palinkara/Planify/issues/16) - Closed
 
-[[I 1] - Create (and comment) the classes expected to be needed](https://github.com/Palinkara/Planify/issues/5)
+[[I 1] - Create (and comment) the classes expected to be needed](https://github.com/Palinkara/Planify/issues/5) - Closed
 
 
 The User Story started at this point is:
