@@ -6,7 +6,7 @@ class user:
 
         pass
 
-    def planEvent():
+    def planEvent(eventName, date, time, place):
 
         pass
 
